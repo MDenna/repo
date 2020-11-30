@@ -1,8 +1,8 @@
 #+TITLE: Nov 30th, 2020
 
 ** - **Growth:**
-    - ((Meditation)) 
-        - 10 Min - DONE
+    - ((Meditation))
+*** - 10 Min - DONE
     - [[Web Design]] 
         - 
     - [[Fitness]]
